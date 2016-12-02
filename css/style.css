@@ -426,8 +426,8 @@ header{
  6.	About me Style
 ------------------------------------------------------*/
 
-.aboutme{
-	background:#00bdbd;
+.aboutme {
+	background:#2ab3dd;
 	color:#fff;
 	position:relative;
 }
@@ -486,6 +486,7 @@ header{
 }
 .technical h2{
 	color:#ff675f;
+	font-weight: 400;
 }
 
 .technical .skillsArea{
@@ -570,6 +571,7 @@ header{
 
 .exprience h2{
 	color:#ff675f;
+	font-weight: 400;
 }
 .exprience p{
 	color:#84868d;
@@ -647,6 +649,7 @@ header{
 
 .education h2{
 	color:#ff675f;
+	font-weight: 400;
 }
 .education p{
 	color:#84868d;
@@ -694,6 +697,10 @@ header{
 
 .protfolio h4{
 	font-weight:700;
+}
+
+.protfolio h2{
+	font-weight:400;
 }
 
 
@@ -1071,7 +1078,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
  12. Footer Style
 ------------------------------------------------------*/
 .footer{
-	background:#00bdbd;
+	background:#252a36;
 }
 .footer .container{
 	padding:40px 0;
@@ -1085,12 +1092,12 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 .footer ul li{
 	display:inline-block;
 	text-align:center;
-	background:#ffffff;
-	color:#00bdbd;
+	background:#00bdbd;
+	color:#fff;
 	line-height:42px;
 	margin:0 6px;
-	width:42px !important;
-	height:42px !important;
+	width:50px !important;
+	height:50px !important;
 
 	-webkit-border-radius: 50%;
     border-radius: 50%;
@@ -1108,8 +1115,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	height:42px !important;
 }
 .footer ul li a i{
-	line-height:42px !important;
+	line-height:50px !important;
+	color: #fff;
 }
+
 
 
 
@@ -1149,6 +1158,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		font-size:28px;
 	}
 	.proPic{
+
 		text-align:center;
 	}
 }
