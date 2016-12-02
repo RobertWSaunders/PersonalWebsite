@@ -664,6 +664,12 @@ header{
 	font-weight:700;
 }
 
+.education ul{
+	color: #84868d;
+	line-height:18px;
+	font-weight: 400;
+}
+
 
 .education .arrowpart{
 	background:url(../images/arrow-left-light.png) no-repeat 0 23px;
