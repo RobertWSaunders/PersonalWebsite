@@ -734,23 +734,23 @@ header{
 	text-transform:uppercase;
 	display:block;
 	text-decoration:none;
-	border:solid 1px #95d9ee;
-
+	border:solid 1px #fff;
+font-weight: 400;
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
 
 .portfolioFilter ul li a:hover{
-	border:solid 1px #15596e;
-	color:#15596e;
+	border:solid 1px #252a36;
+	color:#252a36;
 
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
 
 .portfolioFilter ul li a.current{
-	background:#15596e;
-	border:solid 1px #15596e;
+	background:#252a36;
+	border:solid 1px #252a36;
 	color:#fff;
 }
 
