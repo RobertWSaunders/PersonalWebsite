@@ -1,10 +1,10 @@
 # Personal Website
 
-This is my own personal website that I use to practice the latest web technologies and share my skills with potential employers and/or people who are interested in what I do. The website is built upon a Bootstrap template.
+This is my own personal website that I use to practice the latest web technologies and share my skills with potential employers and/or people who are interested in what I do. The website is built using a Bootstrap template.
 
 ## Getting Started
 
-To work with the website on your own local machine, just download them and open index.html in a browser.
+To work with the website on your own local machine, just download the files and open index.html in a browser.
 
 ### Dependencies
 
@@ -28,7 +28,7 @@ No dependencies, all required JavaScript libraries are provided or loaded throug
 
 * **Robert Saunders** - *Initial work* - [Robert Saunders](https://github.com/RobertWSaunders)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/RobertWSaunders/personal-website/contributors) who participated in this project.
 
 ## License
 
